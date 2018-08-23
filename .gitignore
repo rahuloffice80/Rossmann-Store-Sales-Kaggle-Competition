@@ -8,5 +8,6 @@ data/df
 data/store.csv
 data/tmp/*
 __pycache__/*
+lesson3-rossman.ipynb
 .DS_Store
 .DS_Store?
